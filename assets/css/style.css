@@ -139,6 +139,7 @@
 }
 
 body {
+    background-color: #2d0a31;
     font-family: "JetBrains Mono", sans-serif;
     font-weight: normal;
     font-style: normal;
@@ -2040,7 +2041,7 @@ hr {
 }
 
 .preloader {
-    background-color: #f7f7f7;
+    background-color: #2d0a31;
     width: 100%;
     height: 100%;
     position: fixed;
@@ -4831,6 +4832,7 @@ form.search-box .input-form .world-form i {
 }
 
 .blog_item {
+    background-color: white;
     margin-bottom: 50px
 }
 
